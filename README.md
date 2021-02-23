@@ -1,8 +1,8 @@
-# OKExchain Faucet
+# OKExChain Faucet
 
 OKT have no market value, they can be obtained for free and are meant for testing purposes only.
 
-OKExchain network faucets provide OKT to legitimate developers willing to deploy and test contracts on the OKExchain network. The faucets also prevent malicious actors from obtaining large amounts of OKT.
+OKExChain network faucets provide OKT to legitimate developers willing to deploy and test contracts on the OKExChain network. The faucets also prevent malicious actors from obtaining large amounts of OKT.
 
 ## Gitter Channel (Manual GitHub Verification)
 
